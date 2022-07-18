@@ -24,7 +24,7 @@ h6 {
 }
 
 a {
-  color: #000000;
+  color: #fafafa;
   transition: all 0.5s ease;
 }
 
@@ -97,7 +97,7 @@ a:hover {
 }
 
 .color-a {
-  color: #000000;
+  color: #fafafa;
 }
 
 .color-b {
@@ -109,7 +109,7 @@ a:hover {
 }
 
 .color-text-a {
-  color: #555555;
+  color: #fafafa;
 }
 
 .no-margin {
