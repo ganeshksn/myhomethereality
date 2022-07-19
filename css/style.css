@@ -90,6 +90,18 @@ a:hover {
   margin-bottom: 20px;
 }
 
+#whatsapp-sticky {
+  width: 4.5%;
+  padding: 11px;
+  left: 2%;
+  position: fixed;
+  color: black;
+  bottom: 2%;
+  background-color: #efc825;
+  font-size: 35px;
+  border-radius: 50%;
+  z-index: 999;
+}
 .text-brand {
   color: #efc825;
   font-size: 2rem;
