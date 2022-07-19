@@ -102,6 +102,10 @@ a:hover {
   border-radius: 50%;
   z-index: 999;
 }
+#whatsapp-sticky:hover {
+  color: #efc825;
+  background-color: #000000;
+}
 .text-brand {
   color: #efc825;
   font-size: 2rem;
